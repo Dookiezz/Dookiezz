@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ringoameii</h1>
-<h3 align="center">I'm still learning to program golang and python</h3>
+- Hi 👋, I'm ringoameii
+- I'm still learning to program golang and python
 
 <p align="left"> <a href="https://twitter.com/ringoamei10_" target="blank"><img src="https://img.shields.io/twitter/follow/ringoamei10_?logo=twitter&style=for-the-badge" alt="ringoamei10_" /></a> </p>
 
@@ -10,11 +10,9 @@
 </p>
 -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ringoameii&show_icons=true&locale=en&layout=compact" alt="ringoameii" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ringoameii&show_icons=true&locale=en&layout=compact" alt="ringoameii" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ringoameii&show_icons=true&locale=en" alt="ringoameii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ringoameii&" alt="ringoameii" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ringoameii&show_icons=true&locale=en" alt="ringoameii" />
 
 <!--
 **marthadinatarf/marthadinatarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
