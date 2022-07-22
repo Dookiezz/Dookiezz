@@ -1,4 +1,4 @@
-<p align=center> Hi 👋, I'm ringoameii</p>
+ Hi 👋, I'm ringoameii
 <!--<p align=center>I'm still learning to program golang and python -->
 
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/orangee)
