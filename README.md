@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/ringoamei10_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ringoamei10_)
 [![](https://img.shields.io/badge/rizkifirdaus10_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizkifirdaus10_)
 
-[![](https://github-readme-stats.vercel.app/api?username=ringoameii&show_icons=true&theme=radical)](https://github.com/ringoameii/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ringoameii&show_icons=true&theme=radical)](https://github.com/rzkfrdus/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
