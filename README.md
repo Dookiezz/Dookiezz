@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Dookiezz</h1>
+<h1 align="center">Hi 👋, I'm Dookiezz</h1>
 <h3 align="center">A lazy fullstack developer — writing code half-asleep, fixing bugs only when coffee kicks in, and somehow making things work before deadlines.</h3>
 
 <h3 align="left">Connect with me:</h3>
